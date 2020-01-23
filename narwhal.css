@@ -1,0 +1,10 @@
+body {
+    color: teal;
+    text-align: center;
+}
+img {
+    width: 80%;
+    border-color: teal;
+    border-width: 10px;
+    border-style: dotted;
+}
