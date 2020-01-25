@@ -1,10 +1,47 @@
 body {
     color: teal;
     text-align: center;
+    background-color: aqua;
 }
+
+H1 {color: burlywood;
+    background-color: blueviolet;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    text-align: center;
+    display: inline-block
+}
+
 img {
-    width: 80%;
+    width: 78%;
     border-color: teal;
     border-width: 10px;
     border-style: dotted;
+}
+H2{ 
+    text-align: center;
+    text-emphasis: bold;
+    background-color:aquamarine;
+    color: blue;
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+a{ text-align: right;
+}
+
+.ocean {
+    background-image: url("https://eos.org/wp-content/uploads/2019/05/fish-in-the-ocean.jpg");
+    color: yellow;
+    text-shadow: cornsilk;
+    display: inline-block;
+    text-emphasis: bold;
+    border-top: darkkhaki;
+    font-size: 45px;
+    width: fit-content;
+}
+
 }
